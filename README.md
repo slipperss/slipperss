@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://i.gifer.com/4RNk.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="500" height="320" />
 
 **Back-end**
 
