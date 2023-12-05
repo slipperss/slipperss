@@ -3,8 +3,6 @@
 ## Technology stack
 <img align="right" alt="GIF" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="500" height="320" />
 
-**Back-end**
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JS](https://img.shields.io/badge/-JS-red)
 ![Express.js](https://img.shields.io/badge/-Express.js-yellowgreen)
